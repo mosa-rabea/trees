@@ -1,4 +1,5 @@
 package trees;
+
 public class BinarySearchTree<T> extends BinaryTree<T>{
 
     public BinarySearchTree(){
